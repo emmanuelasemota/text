@@ -1,0 +1,26 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+
+
+.heading{
+    color:olive;
+    padding:1.6vw;
+}
+
+#mypara{
+    color: rgba(197, 132, 132, 0.89);
+    margin-left: 50vw;
+    padding: 2.6vw;
+}
+
+.parent{
+    display:flex;
+    background-color: rgb(51, 49, 49);
+}
+
+.logo{
+    width: 8vw;
+    border-radius: 50px;
+}
